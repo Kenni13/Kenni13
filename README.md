@@ -1,16 +1,19 @@
-## Hi there 👋
+<h2 align="center"> Hello, World </h2>
+<h3 align = "center"> A self-taught programmer in University </h3>
 
-<!--
-**Kenni13/Kenni13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kenni13&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
-Here are some ideas to get you started:
+<h3> I use the following Languages </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+</p>
+
+<h3> Click below to contact me on discord </h3>
+<a href="https://discord.com/users/764365008460841000">
+    <img src="https://lanyard-profile-readme.vercel.app/api/764365008460841000?idleMessage=Vibing"/>
+</a>
+
+| <img src="https://grs.quantumly.dev/api/?username=kenni13&show_icons=true&theme=gruvbox" /> | <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kenni13&show_icons=true&theme=gruvbox&lang_count=3"/> |
+| ------------- | ------------- |
